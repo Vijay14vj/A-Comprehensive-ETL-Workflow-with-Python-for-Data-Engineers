@@ -1,0 +1,2 @@
+# A-Comprehensive-ETL-Workflow-with-Python-for-Data-Engineers
+The Extract, Transform, Load (ETL) process is essential for data engineers, enabling them to manage data from various formats and transform it for further use. In this project, we will demonstrate how to extract data from CSV, JSON, and XML formats, transform it, and load the transformed data into a structured format for further processing.
